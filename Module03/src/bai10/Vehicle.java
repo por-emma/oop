@@ -1,4 +1,4 @@
-package bai09;
+package bai10;
 
 public class Vehicle {
     private String brand, model;
